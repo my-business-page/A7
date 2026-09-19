@@ -1,0 +1,1 @@
+window.SUNDAY_BUNCH_EDITION={status:"CHECK LATEST ANNOUNCEMENT",theme:"Owner-confirmed current edition",date:null,remaining:null,menuVersion:"Current menu is released per edition"};
